@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://stijakovic005-gif.github.io/Portfolio/sitemap.xml
